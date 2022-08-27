@@ -23,3 +23,4 @@ If you like my projects then consider making a small donation by clicking below 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/henryrics)
 
 #### Star the Repo in case you liked it :)
+ 
